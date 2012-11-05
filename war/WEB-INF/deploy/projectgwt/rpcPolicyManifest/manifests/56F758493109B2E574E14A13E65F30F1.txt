@@ -1,0 +1,2 @@
+serviceClass: com.example.project.client.CalculatorService
+path: BB6DC1E80536BECB656F7B6DFB6668FC.gwt.rpc

@@ -1,0 +1,526 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #777777;
+  margin: 20px 0px 10px;
+  text-align: center;
+}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.calc{
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border:1px solid;
+	width:260px;
+	border-radius:5px;
+	height:350px;
+	
+}
+
+
+.calc1{
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border:1px solid;
+	width:260px;
+	border-radius:5px;
+	height:180px;
+}
+
+.calc2{
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border:1px solid;
+	width:260px;
+	border-radius:5px;
+	height:180px;
+}
+
+
+.calc3{
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border:1px solid;
+	width:260px;
+	border-radius:5px;
+	height:180px;
+}
+
+.calc4{
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border:1px solid;
+	width:260px;
+	border-radius:5px;
+	height:180px;
+}
+.calc .gwt-TextBox{
+	
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc .gwt-Label{
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc4 .gwt-TextBox{
+	
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc4 .gwt-Label{
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc3 .gwt-Label{
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+.calc1 .gwt-Label{
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc1 .gwt-TextBox{
+	
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc2 .gwt-Label{
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc2 .gwt-TextBox{
+	
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.calc3 .gwt-TextBox{
+	
+	
+	margin-top:10px;
+	margin-left:20px;
+	
+}
+
+.rb1{
+	position:absolute;
+	top:70%;
+  left:5%;
+	padding:10px;	
+	
+	
+	
+}
+
+.rb2{
+	
+	position:absolute;
+	top:70%;
+  left:21%;
+	padding:10px;
+	
+	
+}
+
+
+.rb3{
+	
+	position:absolute;
+	top:70%;
+  left:36%;
+	padding:10px;
+	
+	
+}
+
+.rb4{
+	position:absolute;
+	top:70%;
+  left:5%;
+	padding:10px;	
+	
+	
+	
+}
+
+.rb5{
+	
+	position:absolute;
+	top:70%;
+  left:21%;
+	padding:10px;
+	
+	
+}
+
+
+.rb6{
+	
+	position:absolute;
+	top:70%;
+  left:36%;
+	padding:10px;
+	
+	
+}
+
+.rb11{
+	position:absolute;
+	top:70%;
+  left:5%;
+	padding:10px;	
+	
+	
+	
+}
+
+.rb21{
+	
+	position:absolute;
+	top:70%;
+  left:21%;
+	padding:10px;
+	
+	
+}
+
+
+.rb31{
+	
+	position:absolute;
+	top:70%;
+  left:36%;
+	padding:10px;
+	
+	
+}
+
+.rb41{
+	
+	position:absolute;
+	top:70%;
+  left:48%;
+	padding:10px;
+	
+	
+}
+
+
+.rb51{
+	
+	position:absolute;
+	top:70%;
+  left:65%;
+	padding:10px;
+	
+	
+}
+.but{
+	
+	position:absolute;
+	top:48%;
+  left:8%;
+	padding:5px;
+
+}
+
+.but2{
+	
+	position:absolute;
+	top:48%;
+  left:18%;
+	padding:5px;
+
+}
+
+.but3{
+	
+	position:absolute;
+	top:48%;
+  left:27%;
+	padding:5px;
+	
+}
+.but4{
+	
+	position:absolute;
+	top:48%;
+  left:36%;
+  
+	padding:5px;
+	
+}
+
+.but5{
+	
+	position:absolute;
+	top:48%;
+  left:45%;
+  
+	padding:5px;
+	
+}
+
+.but6{
+	
+	position:absolute;
+	top:75%;
+  left:8%;
+  
+	padding:5px;
+	
+}
+
+.but7{
+	
+	position:absolute;
+	top:75%;
+  left:23%;
+  
+	padding:5px;
+	
+}
+.result{
+	
+	
+	border:1px solid;
+	border-radius:5px;
+	height:20px;
+	width:40px;
+	padding:5px;
+	
+}
+
+.result2{
+	
+	
+	border:1px solid;
+	border-radius:5px;
+	height:20px;
+	width:40px;
+	padding:5px;
+	
+}
+
+.result3{
+	
+	
+	border:1px solid;
+	border-radius:5px;
+	height:20px;
+	width:40px;
+	padding:5px;
+	
+}
+
+.result11{
+	
+	
+	border:1px solid;
+	border-radius:5px;
+	height:10px;
+	width:40px;
+	padding:5px;
+	
+}
+
+.label1{
+	
+	padding-top:20px;
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+.label12{
+	
+	padding-top:20px;
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+
+
+.label2{
+	
+	padding-top:20px;
+	margin-bottom:100px;
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+.label9{
+	position:absolute;
+	top:60%;
+	left:0%;
+	padding-top:10px;
+	
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+.label3{
+	
+	padding-top:20px;
+	margin-bottom:100px;
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+.label4{
+	
+	padding-top:20px;
+	margin-bottom:100px;
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+.label10{
+	
+	padding-top:20px;
+	
+	border:1px solid;
+	border-radius:5px;
+	
+	
+	
+}
+
+.label4{
+	
+	padding-top:20px;
+	
+	border:1px solid;
+	border-radius:5px;
+	
+	
+}
+
+#mainContainer{
+	margin:10px 500px ;
+	border:1px solid;
+	border-radius:15px;
+	width:300px;
+	
+	
+	
+}
+
+#mainContainer1{
+	margin:10px 100px;
+	border:1px solid;
+	border-radius:15px;
+	width:300px;
+	position:absolute;
+	top:1%;
+	
+	
+	
+}
+
+#mainContainer3{
+	margin:10px 0px;
+	border:1px solid;
+	border-radius:15px;
+	width:300px;
+	position:absolute;
+	top:105%;
+	right:266%;
+	
+	
+	
+}
+
+#mainContainer4{
+	margin:10px 0px;
+	border:1px solid;
+	border-radius:15px;
+	width:300px;
+	position:absolute;
+	top:105%;
+	right:0%;
+	
+	
+}
+
+
+#mainContainer2{
+	margin:0px 900px;
+	border:1px solid;
+	border-radius:15px;
+	width:300px;
+	position:absolute;
+	top:2%;
+	
+	
+	
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
+
